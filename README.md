@@ -37,5 +37,4 @@ pkg update && pkg upgrade
 pkg install python git -y
 git clone https://github.com/Tante-LeviaXD/entod_tante.git
 cd entod_tante
-pip install -r requirements.txt
 python Levia_enc.py
