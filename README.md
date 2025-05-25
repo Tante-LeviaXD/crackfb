@@ -35,7 +35,7 @@ LeviaXD adalah tools Python untuk mengumpulkan ID Facebook dan melakukan crack p
 ```bash
 pkg update && pkg upgrade
 pkg install python git -y
-git clone https://github.com/LeviaXD/entod_tante
+git clone https://github.com/Tante-LeviaXD/entod_tante.git
 cd entod_tante
 pip install -r requirements.txt
 python Levia_enc.py
