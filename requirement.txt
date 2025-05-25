@@ -1,5 +1,0 @@
-rich
-requests
-colorama
-bs4
-pytz
