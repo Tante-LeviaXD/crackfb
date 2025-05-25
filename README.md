@@ -7,7 +7,7 @@ Cocok untuk edukasi dan pengujian akun pribadi.
 ```bash
 pkg update && pkg upgrade
 pkg install python git -y
-git clone https://github.com/Tante-LeviaXD/entod-tante.git
-cd entod-tante
+git clone https://github.com/Tante-LeviaXD/crackfb.git
+cd crackfb
 pip install -r requirements.txt
 python Levia_enc.py
